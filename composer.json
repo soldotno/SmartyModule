@@ -1,5 +1,5 @@
 {
-    "name": "murganikolay/smarty-module",
+    "name": "soldotno/zf2_smarty3",
     "description": "Smarty template engine module for Zend Framework 2",
     "homepage": "https://github.com/MurgaNikolay/SmartyModule",
     "type": "library",
