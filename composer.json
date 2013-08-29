@@ -1,7 +1,7 @@
 {
     "name": "soldotno/zf2_smarty3",
     "description": "Smarty template engine module for Zend Framework 2",
-    "homepage": "https://github.com/MurgaNikolay/SmartyModule",
+    "homepage": "https://github.com/soldotno/zf2_smarty3",
     "type": "library",
     "license": "MIT",
     "keywords": [
